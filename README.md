@@ -1,0 +1,1 @@
+[![Build status](https://ci.appveyor.com/api/projects/status/nui5235tfamt8o7w/branch/master?svg=true)](https://ci.appveyor.com/project/zhukovvlad/containers-3rd-task/branch/master)
