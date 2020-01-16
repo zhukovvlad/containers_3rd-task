@@ -1,6 +1,13 @@
 // TODO: write your code here
-import sum from './basic';
+import Settings from './settings';
 
-console.log('worked');
+const set = new Settings();
 
-console.log(sum([1, 2]));
+/*
+set.setMusic = 'pop';
+set.setTheme = 'alight';
+set.setDifficult = 'hard';
+*/
+
+console.log(set.settings);
+console.log(set);
